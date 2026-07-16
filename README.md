@@ -1,44 +1,98 @@
-# Hi there, I'm Aditya Chandra! 👋
+<!-- CENTER EVERYTHING USING HTML -->
+<div align="center">
 
+<!-- 🚀 THE TOP PROFILE ICON -->
+<!-- We use HTML to set a specific size. Ensure your image is named 'profile-icon.png' (or .gif) and is in the same repository. -->
+<img src="profile-icon.jpg" width="180px" alt="Profile Icon" />
+
+<!-- 👋 THE CUSTOM HEADER (H1) -->
+<h1>Hi there, I'm Aditya Chandra! 👋</h1>
+
+<!-- 🌊 CUSTOM WAVY DIVIDER -->
+<!-- We use a subtle SVG graphic to create that visual separation. -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.png" width="100%" height="20px" alt="divider" />
+
+<!-- 💫 ABOUT ME SECTION -->
+<h2>💫 About Me</h2>
+
+<!-- Use an HTML table for clean alignment and customized spacing -->
+<table border="0">
+  <tr>
+    <td align="left" width="60px">
+      <!-- Custom visual bullet -->
+      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="30px"/> 
+    </td>
+    <td align="left">
+      <strong>Aspiring Developer</strong> specializing in foundational programming principles.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <!-- Git specific icon -->
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="30px"/> 
+    </td>
+    <td align="left">
+      <strong>Mastering Version Control:</strong> Comfortable with basic commands, repository management, and <strong>advanced Git Branching</strong> workflows.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <!-- Python specific icon -->
+      <img src="https://img.icons8.com/color/48/000000/python.png" width="30px"/> 
+    </td>
+    <td align="left">
+      <strong>Current Focus: Python</strong>. Diving into syntax, control flow, and data structures.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <!-- Contact icon -->
+      <img src="https://img.icons8.com/fluency/48/000000/mail.png" width="30px"/> 
+    </td>
+    <td align="left">
+      <strong>Let's Connect:</strong> Reach out at [your.email@email.com] to collaborate on beginner projects!
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- 🛠️ TECH STACK SECTION (PREMIUM BADGES) -->
+<h2>🛠️ Tech Stack</h2>
+<!-- We use 'for-the-badge' style for that glossy, professional look. Aligned horizontally. -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8wdm00N3Z6ZHp0ZHgxbXN6Z3Bmem90YmI1dzZtZTV6Y3Fud3p3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Coding GIF">
-</p>
-
----
-
-### 💫 About Me
-I am an aspiring developer building my foundation in programming and version control. Right now, I'm focusing on writing clean code and understanding how to structure projects efficiently.
-
-* 🚀 **Current Focus:** Learning Python syntax and basic problem-solving.
-* 🌿 **Git Savvy:** Already comfortable with version control, repository management, and **Git Branching** workflows!
-* 🌱 **My Goal:** To transition from learning syntax to building my first automation scripts and small apps.
-* 📫 **How to reach me:** adivlogs69@gmail.com
-
----
-
-### 🛠️ Tech Stack & Tools I'm Learning
-
-<p align="left">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Git -->
+  <img src="https://img.shields.io/badge/Python (Learning)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<br />
 
-### 📈 Current Learning Roadmap
+<!-- 🌊 CUSTOM WAVY DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.png" width="100%" height="20px" alt="divider" />
 
-- [x] Understand Git basics and repository management
-- [x] Master Git Branching workflows
-- [ ] Learn Python variables, loops, and functions
-- [ ] Build a simple command-line Python project (like a calculator or text game)
-- [ ] Push my first Python project to GitHub using branches
+<!-- 📈 MY LEARNING JOURNEY ROADMAP (CUSTOM ICONS) -->
+<h2>📈 My Learning Journey</h2>
 
----
+<!-- Use Markdown checkboxes, but custom headers for a sleek finish -->
+<div align="left" style="width: 80%;">
+
+*   [x] **Git & GitHub Fundamentals** (Completed)
+*   [x] 🌿 **Advanced Git Branching** (Completed)
+*   [ ] **Python Variables & Control Flow** (In Progress)
+*   [ ] 🐍 **Building my first CLI Python Game** (Upcoming)
+*   [ ] **Open Source Contribution** (Goal)
+
+</div>
+
+<br />
+
+<!-- FOOTER DIVIDER & QUOTE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.png" width="100%" height="20px" alt="divider" />
 
 <p align="center">
-  <i>"The expert in anything was once a beginner."</i> ✨
+  <em>"Building something awesome, one branch at a time."</em> 🌿
 </p>
+
+<!-- CLOSE THE DIV THAT CENTERS EVERYTHING -->
+</div>
