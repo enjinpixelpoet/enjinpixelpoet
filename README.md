@@ -83,6 +83,11 @@
   <a href="mailto:adityacdev7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <!-- Website Badge -->
+  <a href="https://enjinpixelpoet.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" />
+  </a>
   
   <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/adityachandra-bit" target="_blank">
